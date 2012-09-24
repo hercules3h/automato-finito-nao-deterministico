@@ -1,3 +1,5 @@
+import automatoFinito.Estado;
+
 public class AutomatoFinito {
 
 	private Estado[] estados;
